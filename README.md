@@ -5,6 +5,11 @@ Collection of scripts to create detections in various security platforms.
 Currently supports:
 - Microsoft Sentinel
 
+Planned to support:
+- Splunk
+- Datadog
+- IBM QRadar
+
 ## Installation
 
 ```
