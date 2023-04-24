@@ -28,3 +28,6 @@ python3 <tool.py> <required_parameters>
 python3 <tool.py> -h
 ```
 
+## Todo
+
+- Move away from each tool being an individual Python script.
