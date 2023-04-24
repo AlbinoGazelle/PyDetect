@@ -1,0 +1,9 @@
+{
+    "etag": "\"260097e0-0000-0d00-0000-5d6fa88f0000\"",
+    "kind": "MicrosoftSecurityIncidentCreation",
+    "properties": {
+      "productFilter": "Microsoft Cloud App Security",
+      "displayName": "testing displayname",
+      "enabled": true
+    }
+  }
